@@ -1,0 +1,8 @@
+{
+    "domain":"http://localhost:3000",
+    "title":"Eggs NFT Hunter game",
+    "smtp_server":"",
+    "smtp_port":"",
+    "smtp_username":"",
+    "smtp_password":""
+}
